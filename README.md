@@ -1,0 +1,1 @@
+Book Haven is a dynamic and user-friendly online book store developed using the MERN stack (MongoDB, Express.js, React, and Node.js). This application offers a seamless browsing experience for book enthusiasts, enabling them to explore, purchase, and review a vast collection of books across various genres.
