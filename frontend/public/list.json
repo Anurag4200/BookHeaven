@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "price": 10.99,
+        "description": "A collection of short stories",
+        "image": "book2.avif",
+        "category": "Free"
+    },
+    {
+        "id": 2,
+        "name": "Mystery Novel",
+        "price": 12.99,
+        "description": "A thrilling mystery novel",
+        "image": "book2.avif",
+        "category": "Free"
+    },
+    {
+        "id": 3,
+        "name": "Science Fiction",
+        "price": 15.99,
+        "description": "Exploring futuristic worlds",
+        "image": "book2.avif",
+        "category": "Free"
+    },
+    {
+        "id": 4,
+        "name": "Historical ",
+        "price": 18.99,
+        "description": "A detailed historical biography",
+        "image": "book2.avif",
+        "category":  "Free"
+    },
+    {
+        "id": 5,
+        "name": "Self-Help Guide",
+        "price": 9.99,
+        "description": "Tips for personal development",
+        "image": "book2.avif",
+        "category":  "Free"
+    },
+    {
+        "id": 6,
+        "name": "Cookbook",
+        "price": 25.99,
+        "description": "Delicious recipes from around the world",
+        "image": "book2.avif",
+        "category": "Cooking"
+    },
+    {
+        "id": 7,
+        "name": "Children's Picture Book",
+        "price": 8.99,
+        "description": "Illustrated stories for children",
+        "image": "book2.avif",
+        "category": "Children"
+    },
+    {
+        "id": 8,
+        "name": "Fantasy Adventure",
+        "price": 14.99,
+        "description": "An epic fantasy adventure",
+        "image": "book2.avif",
+        "category": "Fiction"
+    },
+    {
+        "id": 9,
+        "name": "Romantic Novel",
+        "price": 11.99,
+        "description": "A heartwarming love story",
+        "image": "book2.avif",
+        "category": "Fiction"
+    },
+    {
+        "id": 10,
+        "name": "Travel Guide",
+        "price": 19.99,
+        "description": "A comprehensive travel guide",
+        "image": "book2.avif",
+        "category": "Travel"
+    }
+]
